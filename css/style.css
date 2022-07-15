@@ -1,0 +1,43 @@
+/* stay fucas section start  */
+.flexible-container {
+    display: flex;
+}
+
+.stay-fucas-section-heading {
+    font-size: 60px;
+
+}
+
+.half-width {
+    width: 50%;
+    margin-left: 40px;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.orange-colour-font {
+    color: orange;
+}
+
+.common-button {
+    background-color: #FF5959;
+    padding: 12px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-top: 50px;
+}
+
+#stay-focas-scroll-down {
+    margin-top: 20px;
+}
+
+/* stay fucas section end  */
+
+/* mission 2022 section start */
+.mission-2022-heading {
+    font-size: 48px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
