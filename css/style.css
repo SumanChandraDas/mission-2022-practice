@@ -96,3 +96,21 @@
 }
 
 /* devlop without limit section finish  */
+/* footer section */
+footer {
+    width: 1440px;
+    height: 177px;
+    background: #0B0D17;
+
+}
+
+footer h2 {
+    text-align: center;
+    color: white;
+    font-family: 'Lobster', cursive;
+}
+
+footer p {
+    text-align: center;
+    color: white;
+}
