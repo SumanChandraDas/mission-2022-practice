@@ -1,3 +1,9 @@
+.section-container {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+
 /* stay fucas section start  */
 .flexible-container {
     display: flex;
@@ -39,5 +45,40 @@
 .mission-2022-heading {
     font-size: 48px;
     text-align: center;
+}
+
+.font-family-popins {
     font-family: 'Poppins', sans-serif;
 }
+
+.mission-item {
+    width: 360px;
+    height: 376px;
+    border-radius: 26px;
+    padding: 12px 13px 45px 32px;
+}
+
+.mission-item img {
+    height: 126px;
+    width: 126px;
+}
+
+.mission-item p {
+    text-align: justify;
+}
+
+#mission-item-mission {
+    background: rgba(79, 157, 166, 0.1);
+}
+
+#mission-item-vission {
+    background: rgba(255, 89, 89, 0.1);
+    margin-left: 24px;
+    margin-right: 24px;
+}
+
+#mission-item-goals {
+    background: #FFF4D6;
+}
+
+/* mission 2022 end  */
