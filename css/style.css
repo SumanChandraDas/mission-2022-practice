@@ -1,6 +1,7 @@
 .section-container {
     margin-left: 50px;
     margin-right: 50px;
+    margin-top: 50px;
 }
 
 
@@ -33,6 +34,7 @@
     border-radius: 5px;
     text-decoration: none;
     margin-top: 50px;
+    color: white;
 }
 
 #stay-focas-scroll-down {
@@ -82,3 +84,14 @@
 }
 
 /* mission 2022 end  */
+/* devlop without limit section start  */
+.two-items-on-section .items-of-two-items img {
+    width: 400px;
+    height: 400px;
+}
+
+.items-of-two-items-left-item {
+    margin-right: 72px;
+}
+
+/* devlop without limit section finish  */
